@@ -1,0 +1,770 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#bg{
+    background-image: url(./careers-banner\ bg.webp);
+    background-size: cover;
+}
+#bluebg{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 35px;
+    background: #034EA2;
+    display: flex;
+    align-items: center;
+}
+#health{
+    position: absolute;
+    top: 7px;
+    left: 10%;
+    color: white;
+}
+#who{
+    position: absolute;
+    top: 7px;
+    left: 50%;
+    color: white;
+}
+#investor{
+    position: absolute;
+    top: 7px;
+    left: 60%;
+    color: white;
+}
+#news{
+    position: absolute;
+    top: 7px;
+    left: 70%;
+    color: white;
+}
+#career{
+    position: absolute;
+    top: 7px;
+    left: 75%;
+    color: white;
+}
+#content{
+    position: absolute;
+    top: 7px;
+    left: 10%;
+    color: white;
+}
+.contentbg{
+    position: fixed;
+    top: 0px;
+    left: 82%;
+    background: #ED0677;
+    height: 35px;
+    width: 90px;
+}
+#whitebg{
+    position: fixed;
+    top: 5%;
+    width: 100%;
+    height: 14%;
+    background: white;
+    display: flex;
+    align-items: center;
+}
+#logo{
+    position: fixed;
+    top: 10%;
+    left: 10%;
+}
+#whowe{
+    position: fixed;
+    top: 10%;
+    left: 40%;
+    font-size: 20px;
+}
+#what{
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    font-size: 20px;
+}
+#how{
+    position: fixed;
+    top: 10%;
+    left: 60%;
+    font-size: 20px;
+}
+#think{
+    position: fixed;
+    top: 10%;
+    left: 73%;
+    font-size: 20px;
+}
+#search{
+    position: fixed;
+    top: 10%;
+    left: 85%;
+}
+#marqee{
+    background-size:contain;
+}
+.container{
+    position: absolute;
+    top: 18%;
+    left: 0%;
+    margin: 0;
+    padding: 0;
+ 
+}
+#hi{
+    height: -50%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+/* first slide */
+#future{
+    position: absolute;
+    top: -800%;
+    left: -20%;
+}
+#digital{
+    position: absolute;
+    top: -600%;
+    left: -20%;
+    color: black;
+}
+#A{
+    position: absolute;
+    top: -400%;
+    left: -20%;
+    color: black;
+    font-size: 20px;
+}
+#watchcolor{
+    position: absolute;
+    top: -300%;
+    left: -20%;
+    background: #034EA2;
+    height: 100%;
+    width: 40%;
+    font-size: 22px;
+    padding: 10px 10px 10px 10px;
+    
+}
+/* second slide*/
+#market{
+    position: absolute;
+    top: -850%;
+    left: -20%;
+}
+#Hybrid{
+    position: absolute;
+    top: -400%;
+    left: -15%;
+    font-size: 22px;
+}
+#down{
+    position: absolute;
+    top: -200%;
+    left: -15%;
+    background:#ED0677;
+    height: 120%;
+    width: 20%;
+    font-size: 22px;
+    padding: 15px 7px 7px 9px;
+    border-radius: 10px;
+    
+}
+ /* third slide */
+
+#Only{
+    position: absolute;
+    top: -850%;
+    left: -20%;
+    color:#034EA2;
+}
+#report{
+    position: absolute;
+    top: -400%;
+    left: -15%;
+    font-size: 22px;
+    color:#034EA2;
+
+}
+
+#bg2{
+    position: absolute;
+    top: 635px;
+    background: white;
+    height: 550px;
+    width:1331px;
+}
+#we{
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    color: black;
+}
+#wehelp{
+    position: absolute;
+    top: 180px;
+    left: 150px;
+    font-size: 20px;
+    color: black;
+}
+#video{
+    position: absolute;
+    top: 200px;
+    left: 750px;
+    font-size: 20px;
+}
+
+#bg3{
+    position: absolute;
+    top: 1150px;
+    background:#034EA2;
+    height: 750px;
+    width:1331px;
+}
+#pink1{
+    position: absolute;
+    top: 12%;
+    left: 9%;
+    background:#ED0677;
+    height: 39%;
+    width: 18%;
+}
+#tri1{
+    position: absolute;
+    top: 60.2%;
+    left: 60%;
+}
+#whowe{
+    position: absolute;
+    top: 19%;
+    left: 12%;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+#serve{
+    position: absolute;
+    top: 25%;
+    left: 12%;
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+}
+#blue1{
+    position: absolute;
+    top: 12%;
+    left: 30%;
+    background:skyblue;
+    height: 39%;
+    width: 18%;
+}
+#tri2{
+    position: absolute;
+    top: 70.2%;
+    left: 0%;
+}
+#what{
+    position: absolute;
+    top: 19%;
+    left: 33%;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+#wedo{
+    position: absolute;
+    top: 25%;
+    left: 33%;
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+}
+#blue2{
+    position: absolute;
+    top: 57%;
+    left: 9%;
+    background:skyblue;
+    height: 39%;
+    width: 18%;
+}
+#tri3{
+    position: absolute;
+    top: 0%;
+    left: 70%;
+}
+
+
+#blue3{
+    position: absolute;
+    top: 57%;
+    left: 30%;
+    background:skyblue;
+    height: 39%;
+    width: 18%;
+}
+#tri4{
+    position: absolute;
+    top: 0%;
+    left: 0%;
+}
+#howwe{
+    position: absolute;
+    top: 80%;
+    left: 13%;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+#deliver{
+    position: absolute;
+    top: 85%;
+    left: 12%;
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+}
+#are{
+    position: absolute;
+    top: 80%;
+    left: 33%;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+}
+#different{
+    position: absolute;
+    top: 85%;
+    left: 32%;
+    color: white;
+    font-size: 35px;
+    text-decoration: none;
+}
+
+
+#bio{
+    position: absolute;
+    top: 13%;
+    right: 22%;
+    color: white;
+}
+#b{
+    position: absolute;
+    top: 13%;
+    right: 10%;
+    color: white;
+}
+#u1{
+    position: absolute;
+    top: 15%;
+    right: 9%;
+    color: white;
+}
+#eme{
+    position: absolute;
+    top: 25%;
+    right: 24%;
+    color: white;
+}
+#ab{
+    position: absolute;
+    top: 25%;
+    right: 10%;
+    color: white;
+}
+#u2{
+    position: absolute;
+    top: 27%;
+    right: 9%;
+    color: white;
+}
+#med{
+    position: absolute;
+    top: 36%;
+    right: 25%;
+    color: white;
+}
+#abc{
+    position: absolute;
+    top: 36%;
+    right: 10%;
+    color: white;
+}
+#u3{
+    position: absolute;
+    top: 38%;
+    right: 9%;
+    color: white;
+}
+
+#bg3white{
+    position: absolute;
+    top: 297%;
+    background: white;
+    height: 80%;
+    width: 100%;
+}
+#new{
+    position: absolute;
+    top: 8%;
+    left: 10%;
+    color: black;
+}
+
+#gray{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    background: rgb(235, 235, 235);
+    height: 45%;
+    width: 28%;
+}
+#comm{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+#ready{
+    position: absolute;
+    top: 32%;
+    left: 10%;
+    font-size: 20px;
+    color: black;
+}
+#grayblue{ position: absolute;
+    top: 96%;
+    left: 0%;
+    padding-top: 0%;
+    background: #034EA2;
+    height: 5%;
+    width: 100%;
+}
+
+#gray1{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    background: rgb(235, 235, 235);
+    height: 45%;
+    width: 28%;
+}
+
+
+#gray2{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    background: rgb(235, 235, 235);
+    height: 45%;
+    width: 28%;
+}
+
+#graypink{ position: absolute;
+    top: 96%;
+    left: 0%;
+    padding-top: 0%;
+    background:#ED0677;
+    height: 5%;
+    width: 100%;
+}
+
+#grayskyblue{ position: absolute;
+    top: 96%;
+    left: 0%;
+    padding-top: 0%;
+    background:skyblue;
+    height: 5%;
+    width: 100%;
+}
+
+#halfwhite{
+    position: absolute;
+    top: 400%;
+    left: 40%;
+    background: rgb(223, 223, 223);
+    height: 55%;
+    width: 45%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+#Join{
+   color: #034EA2;
+}
+#hii{
+    font-size: 20px;
+}
+#value{
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    background:#ED0677;
+    height: 18%;
+    width: 30%;
+    font-size: 22px;
+    padding: 15px 7px 7px 9px;
+    border-radius: 10px;
+    color: white;
+    
+}
+#opp{
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    background:#ED0677;
+    height: 18%;
+    width: 30%;
+    font-size: 22px;
+    padding: 15px 7px 7px 9px;
+    border-radius: 10px;
+    color: white;
+}
+#whitebg3{
+    position: absolute;
+    top: 455%;
+    background: white;
+    height: 70%;
+    width: 100%;
+}
+#life{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+#build{
+    position: absolute;
+    top:35%;
+    left: 10%;
+}
+#agray{
+    position: absolute;
+    top: 20%;
+    left: 55%;
+    background: rgb(235, 235, 235);
+    height: 30%;
+    width: 40%;
+}
+#case{
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    font-size: 19px;
+}
+#loading{
+    position: absolute;
+    top: 39%;
+    left: 5%;
+    font-size: 20px;
+}
+#pink01{
+    position: absolute;
+    right: 0%;
+    background: #ED0677;
+    height: 100%;
+    width: 1.5%;
+}
+#bgray{
+    position: absolute;
+    top: 55%;
+    left: 55%;
+    background: rgb(235, 235, 235);
+    height: 30%;
+    width: 40%;
+}
+#ablue{
+    position: absolute;
+    top: 525%;
+    background: #034EA2;
+    height: 80%;
+    width: 100%;
+}
+#insideblue{
+    position: absolute;
+    top: 10%;
+    left: 20%;
+    background: #034EA2;
+    height: 70%;
+    width: 60%;
+    border:3px solid yellow;
+}
+#insideblue1{
+    position: absolute;
+    top: -5%;
+    left: 35%;
+    background: #034EA2;
+    height: 15%;
+    width: 35%;
+    color: white;
+    padding-left: 3%;
+    font-size: 20px;
+}
+
+#ind{
+    position: absolute;
+    top: 22%;
+    left: 10%;
+    font-size: 25px;
+    color: white;
+}
+#a1{
+    position: absolute;
+    top: 10%;
+    left: 3%;
+}
+#a2{
+    position: absolute;
+    top: 50%;
+    left: 63%;
+}
+
+#dr{
+    position: absolute;
+    top: 70%;
+    left: 10%;
+    font-size: 18px;
+    color: white;
+}
+
+#global{
+    position: absolute;
+    top: 79%;
+    left: 10%;
+    font-size: 18px;
+    color: white;
+}
+#white001{
+    position: absolute;
+    top: 600%;
+    background: white;
+    height: 100%;
+    width: 100%;
+}
+#let{
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    font-size: 32px;
+    color: black;
+}
+#form1{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+    padding: 1.5% 18% 1.5% 2%;
+    border: 2px solid rgb(223, 222, 222);
+}
+#form2{
+    position: absolute;
+    top: 32%;
+    left: 10%;
+    padding: 1.5% 18% 1.5% 2%;
+    border: 2px solid rgb(223, 222, 222);
+}
+#form3{
+    position: absolute;
+    top: 44%;
+    left: 10%;
+    padding: 1.5% 18% 1.5% 2%;
+    border: 2px solid rgb(223, 222, 222);
+}
+#form4{
+    position: absolute;
+    top: 20%;
+    left: 47%;
+    padding: 2% 21% 12.5% 2%;
+    border: 2px solid rgb(223, 222, 222);
+}
+#form5{
+    position: absolute;
+    top: 56%;
+    left: 12%;
+}
+#form6{
+    position: absolute;
+    top: 56%;
+    left: 27%;
+}
+#form7{
+    position: absolute;
+    top: 65%;
+    left: 10%;
+}
+#form8{
+    position: absolute;
+    top: 70%;
+    left: 10%;
+}
+#submit{
+    position: absolute;
+    top: 80%;
+    left: 10%;
+    background:#034EA2;
+    height: 8%;
+    width: 9%;
+    font-size: 22px;
+    padding: 10px 7px 7px 22px;
+    border-radius: 10px;
+    color: white;
+}
+#lastbg{
+    background:#034EA2 ;
+    height: 12%;
+    width: 100%;
+    position: absolute;
+    top: 690%;
+    
+}
+#alll{
+    position: absolute;
+    top: 32%;
+    left: 10%;
+    color: white;
+}
+#all1{
+    position: absolute;
+    top: 32%;
+    left: 32%;
+    color: white;
+}
+#all2{
+    position: absolute;
+    top: 32%;
+    left: 40%;
+    color: white;
+}
+#all3{
+    position: absolute;
+    top: 32%;
+    left: 47%;
+    color: white;
+}
+#all4{
+    position: absolute;
+    top: 32%;
+    left: 55%;
+    color: white;
+}
+#all4{
+    position: absolute;
+    top: 32%;
+    left: 55%;
+    color: white;
+}
+#all5{
+    position: absolute;
+    top: 28%;
+    left: 82%;
+  
+}
+#all6{
+    position: absolute;
+    top: 20%;
+    left: 85%;
+  
+}
+
+
+
+
+
